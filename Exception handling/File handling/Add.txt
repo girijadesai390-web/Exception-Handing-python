@@ -1,0 +1,15 @@
+1st no:8
+2nd no:9
+Ans:17
+1st no:6
+2nd no:7
+Ans:13
+1st no:12
+2nd no:25
+Ans:37
+1st no:7
+2nd no:6
+Ans:13
+1st no:2
+2nd no:3
+Ans:5
